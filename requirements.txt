@@ -1,11 +1,3 @@
-joblib
-matplotlib
-numpy
 pandas
-plotly
-ply
-ptyprocess
-seaborn
 streamlit
-scikit-learn
 random
