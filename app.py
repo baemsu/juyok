@@ -56,7 +56,7 @@ if st.button("실행"):
 
  #   output_area.write(first_row)
 
-    for j in stqdm(range(0,10000)):
+    for j in stqdm(range(0,100000)):
       l1 = str(random.randrange(0,2))
       l2 = str(random.randrange(0,2))
       l3 = str(random.randrange(0,2))
